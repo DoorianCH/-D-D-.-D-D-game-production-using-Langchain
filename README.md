@@ -4,4 +4,7 @@
 23.07.23
 - D&D게임 크리쳐 정보 생성기(LongChain) 제작
 
+23.08.04
+- D&D게임 크리쳐 정보 생성기(LongChain) 업데이트(dndMonster.py)
+
 
